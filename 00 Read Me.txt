@@ -1,9 +1,6 @@
 Project Name : End to End Encryption between two Clients through Server
 
-Name    : Aniket Ajit Tambe
-Roll no : 202050002
-Branch  : F.Y M.Tech Computer Engineering
-Subject : Computational Methodology ( TA Project )
+Name    : Aniket AT Tambe
 
 Steps to run the code
 1. In cmd 1 , Run "rsa.java".
