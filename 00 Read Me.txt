@@ -1,0 +1,14 @@
+Project Name : End to End Encryption between two Clients through Server
+
+Name    : Aniket Ajit Tambe
+Roll no : 202050002
+Branch  : F.Y M.Tech Computer Engineering
+Subject : Computational Methodology ( TA Project )
+
+Steps to run the code
+1. In cmd 1 , Run "rsa.java".
+2. In cmd 1 , Run " Server.java"
+3. In new cmd window- cmd 2 , Run "Client_0.java" and wait. Donot press ENTER on next screen!
+4. In new cmd window- cmd 3 , Run "Client_1.java" and Press ENTER on next screen.
+5. Go back to cmd 2 running "Client_0.java" and press enter.
+6. All keys will be exchanged and program ready to run.
